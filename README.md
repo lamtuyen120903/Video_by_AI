@@ -1,6 +1,7 @@
 # Video by AI
 
 Tổng hợp các video được tạo bởi các dự án khác nhau.
+Vì các file quá lớn nên phải tải về để xem video.
 
 ## Danh sách video
 
