@@ -1,41 +1,40 @@
 # Video by AI
 
-Tổng hợp các video được tạo bởi các dự án khác nhau.
-Vì các file quá lớn nên phải tải về để xem video.
+A collection of videos generated from various projects.
 
-## Danh sách video
+## Video List
 
 ### MedNG.mp4
-**Nguồn:** Hackathon
+**Source:** Hackathon
 
-Sản phẩm từ buổi Hackathon - hệ thống bệnh viện sử dụng **blockchain** để đảm bảo thông tin y tế được bảo mật và toàn vẹn.
+A product from the Hackathon — a hospital system using **blockchain** to ensure medical information is secure and tamper-proof.
 
 ### Sui_product.mp4
-**Công cụ:** Codex-remotion
+**Tool:** Codex-remotion
 
-Video giới thiệu sản phẩm.
+Product introduction video.
 
 ### Smash Blob.mp4
-**Công cụ:** Codex-remotion
+**Tool:** Codex-remotion
 
-Video giới thiệu sản phẩm.
+Product introduction video.
 
 ### Mersi.mp4
-**Công cụ:** Codex-remotion
+**Tool:** Codex-remotion
 
-Video giới thiệu sản phẩm.
+Product introduction video.
 
 ### chatbox-product.mp4
-**Công cụ:** Codex-remotion
+**Tool:** Codex-remotion
 
-Video giới thiệu sản phẩm.
+Product introduction video.
 
 ### Story_of_barkery_girl.mp4
-**Công cụ:** AI Discord (Trung Quốc)
+**Tool:** AI Discord (China)
 
-Video được tạo bằng AI từ một công cụ chia sẻ trên Discord.
+Video created using AI from a tool shared on Discord.
 
 ### story_of_bird.mp4
-**Công cụ:** AI Discord (Trung Quốc)
+**Tool:** AI Discord (China)
 
-Video được tạo bằng AI từ một công cụ chia sẻ trên Discord.
+Video created using AI from a tool shared on Discord.
